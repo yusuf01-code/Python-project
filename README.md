@@ -1,2 +1,2 @@
 # Python-project
-This is a python project
+This is a python programming project
